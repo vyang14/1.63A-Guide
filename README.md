@@ -13,3 +13,5 @@ This page includes:
 **Guide Preview:**
 
 ![A preview of the top of the guide website](./assets/images/preview.png)
+
+Page is deployed at https://vyang14.github.io/1.63A-Guide/
