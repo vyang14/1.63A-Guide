@@ -11,4 +11,5 @@ This page includes:
 * Character-specific combos
 
 **Guide Preview:**
+
 ![A preview of the top of the guide website](./assets/images/preview.png)
